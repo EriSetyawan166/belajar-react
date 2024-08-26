@@ -46,4 +46,6 @@ ul {
   padding-inline-start: 20px;
 }
 
-img { margin: 0 10px 10px 0; height: 90px; }
+body { padding: 0; margin: 0 }
+body > div > div { padding: 20px; }
+.avatar { border-radius: 50%; height: 90px; }
